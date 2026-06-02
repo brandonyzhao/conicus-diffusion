@@ -5,5 +5,5 @@ Contains code for [Generative Diffusion Priors for 3D Mapping of the Dark Univer
 
 Dataset Link: 
 
-The code is currently under construction as we apply our method to the [COSMOS-Web](https://arxiv.org/abs/2506.03243) catalog. 
+The posterior sampling code is currently under construction as we apply our method to the [COSMOS-Web](https://arxiv.org/abs/2506.03243) catalog. 
 I can try to provide code upon reasonable request to byzhao (at) caltech.edu
